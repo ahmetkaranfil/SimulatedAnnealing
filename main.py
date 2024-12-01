@@ -78,7 +78,7 @@ if __name__ == "__main__":
     width, height = 1280, 720
     initial_temperature = 50000
     stopping_temperature = 0.1
-    temperature_decay = 0.9999
+    temperature_decay = 0.999
 
     # Load city data from a CSV file
     csv_path = "C:\\Users\\betul\\OneDrive\\Masaüstü\\SimulatedAnnealing\\citiesofturkey.csv"
